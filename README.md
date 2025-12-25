@@ -63,7 +63,7 @@ I am a passionate **Full Stack Developer** skilled in building end-to-end web ap
 
 ##  Contact
 - **Email:** keerthanav14112003@gmail.com 
-- **GitHub:** https://github.com/yourprofile  
+- **GitHub:** https://github.com/keerthanavinoth2003-maker  
 - **Portfolio:** https://keerthanavinoth2003-maker.github.io/personal-portfolio/ 
 
 ---
