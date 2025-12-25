@@ -1,15 +1,10 @@
-# keerthana-fullstackdeveloper-resume
-My Professional Resume
+# KEERTHANA V
+**Full Stack Developer**
 
 ---
 
-#  Download My Resume
- [Click here to download my resume](./resume.pdf)
-
----
-
-##  About Me
-I am a passionate **Full Stack Developer** skilled in building end-to-end web applications using Java, Spring Boot, MySQL, HTML, CSS, JavaScript and React.
+##  Summary
+I am a passionate **Full Stack Developer** skilled in building end-to-end web applications using HTML, CSS, Bootstrap, Js, Java, Spring Boot, MySQL. Eager to contribute to innovative projects and grow in a collaborative team environment. Passionate about learning new technologies and delivering efficient, user-friendly solutions.
 
 ---
 
