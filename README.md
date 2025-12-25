@@ -17,7 +17,7 @@ I am a passionate **Full Stack Developer** skilled in building end-to-end web ap
 ### Frontend:
 - HTML, CSS, JavaScript
 - React.js
-- Bootstrap / Tailwind
+- Bootstrap 
 
 ### Backend:
 - Java
@@ -25,15 +25,15 @@ I am a passionate **Full Stack Developer** skilled in building end-to-end web ap
 - REST APIs
 
 ### Database:
-- MySQL
+- SQL
 
 ---
 
 ## 🚀 Projects
-- Full Stack Login Application
+- User authentication and login system
 - Spring Boot CRUD API
 - Portfolio Website
-- Cosmetics Website / Product Management System
+- Banking Management System using JDBC
 
 ---
 ---
@@ -64,16 +64,14 @@ Includes user login, register and session management.
 ---
 
 ## 🎓 Education
-**B.Sc / BCA / B.Tech / B.E – (Your Department)**  
-Your College Name  
-Passed Out: 2023 / 2024  
+ 2021-2023  
 
 ---
 
 ## 🏅 Certifications
-- Full Stack Development – NMC Institute  
-- Core Java Programming  
-- SQL & Database Basics  
+- NPTEL -Java Programming Language. Scored:76
+- Mind Luster -C++ Programming Language
+- Coursera - Effective Problem-Solving and Decision Making 
 
 ---
 
@@ -86,9 +84,9 @@ Passed Out: 2023 / 2024
 ---
 
 ## 📬 Contact
-- **Email:** yourmail@gmail.com  
+- **Email:** keerthanav14112003@gmail.com 
 - **GitHub:** https://github.com/yourprofile  
-- **LinkedIn:** https://linkedin.com/in/yourprofile  
+- **Portfolio:** https://keerthanavinoth2003-maker.github.io/personal-portfolio/ 
 
 ---
 
